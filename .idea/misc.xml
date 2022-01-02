@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Bg/AndroidStudioProjects/TVShowsApp/app/src/main/res/drawable/background_tv_show.xml" value="0.17871621621621622" />
+        <entry key="..\:/Users/Bg/AndroidStudioProjects/TVShowsApp/app/src/main/res/drawable/ic_search.xml" value="0.17692307692307693" />
+        <entry key="..\:/Users/Bg/AndroidStudioProjects/TVShowsApp/app/src/main/res/drawable/ic_watchlist.xml" value="0.17692307692307693" />
+        <entry key="..\:/Users/Bg/AndroidStudioProjects/TVShowsApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Bg/AndroidStudioProjects/TVShowsApp/app/src/main/res/layout/item_container_tv_show.xml" value="0.16824324324324325" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.536" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
