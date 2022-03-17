@@ -6,18 +6,25 @@ The data is from https://www.episodate.com/ API .
 
 </br>
 
-## Tech stack
+## App Preview
 
-* **100% Java**.
-* **MVVM Architecture**.
-* **Retrofit**.
-* **Lifecycle Extensions**.
-* **Room**.
+## Screenshots
+
+
+## Tech stack & Open-source libraries
+
+* **Minimum SDK level 21**.
+* **100% Java based**.
+* **MVVM Architecture (View - ViewModel - Model) together with Events that decide what Fragment or Activity should do**.
+* **Retrofit - A type-safe HTTP client for Android and Java**.
+* **Room - A Persistence library that provides an abstraction layer over SQLite database (Used for caching upcomming feature)**.
+* **Picasso for loading images**.
 * **RxJava**.
-* **Material Design**.
 * **Data Binding**.
+* **Lifecycle Extensions**.
+* **Material Design Components**.
 
-## Screenshots
 
-## Screenshots
+
+
 
