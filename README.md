@@ -8,6 +8,14 @@ The data is from https://www.episodate.com/ API .
 
 ## App Preview
 
+
+https://user-images.githubusercontent.com/79477855/159122492-e037a7ea-d2d0-460e-844e-8e412e113fca.mp4
+
+
+
+https://user-images.githubusercontent.com/79477855/159122497-c3bd0442-4a7e-4dd0-a492-354c4f8336b3.mp4
+
+
 ## Screenshots
 
 
