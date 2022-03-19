@@ -27,7 +27,7 @@ The data is from https://www.episodate.com/ API .
 * **Retrofit - A type-safe HTTP client for Android and Java**.
 * **Room - A Persistence library that provides an abstraction layer over SQLite database (Used for caching upcomming feature)**.
 * **Picasso for loading images**.
-* **RxJava**.
+* **RxJava to control Room operations and Threading**.
 * **Data Binding**.
 * **Lifecycle Extensions**.
 * **Material Design Components**.
