@@ -10,7 +10,7 @@ The data is from https://www.episodate.com/ API .
 * **100% Java based**.
 * **MVVM Architecture (View - ViewModel - Model) together with Events that decide what Fragment or Activity should do**.
 * **Retrofit - A type-safe HTTP client for Android and Java**.
-* **Room - A Persistence library that provides an abstraction layer over SQLite database (Used for caching upcomming feature)**.
+* **Room Database- A Persistence library that provides an abstraction layer over SQLite database (Used for caching upcomming feature)**.
 * **Picasso for loading images**.
 * **RxJava to control Room operations and Threading**.
 * **Data Binding**.
