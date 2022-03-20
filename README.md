@@ -16,7 +16,7 @@ The data is from https://www.episodate.com/ API .
 * **Data Binding**.
 * **Lifecycle Extensions**.
 * **Material Design Components**.
-* 
+
 ## App Preview
 https://user-images.githubusercontent.com/79477855/159122492-e037a7ea-d2d0-460e-844e-8e412e113fca.mp4
 
