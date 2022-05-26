@@ -3,6 +3,7 @@
 The app shows the most popular TV shows and the details of any show like the genre, description, status and rating. You can make your own WatchList which is stored in a Room Database to reach it anytime. You can also search for your favorite tv-shows. 
 The data is from https://www.episodate.com/ API .
 
+</br>
 
 # App Preview
 https://user-images.githubusercontent.com/79477855/159122492-e037a7ea-d2d0-460e-844e-8e412e113fca.mp4
